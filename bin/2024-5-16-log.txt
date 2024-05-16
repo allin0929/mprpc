@@ -1,0 +1,7 @@
+
+10:1:54=> first log message!
+10:1:54=> /home/zal/mprpc/example/callee/friendservice.cc:main:42
+16:32:5=>[error] first log message!
+16:32:5=>[error] /home/zal/mprpc/example/callee/friendservice.cc:main:42
+16:32:5=>[info] service_name:FriendServiceRpc
+16:32:5=>[info] method_name:GetFriendList
